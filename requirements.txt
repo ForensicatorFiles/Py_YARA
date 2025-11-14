@@ -1,0 +1,2 @@
+tqdm==4.67.1
+yara-python==4.5.4
