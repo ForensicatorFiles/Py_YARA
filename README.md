@@ -22,7 +22,7 @@ python3 rift.py EXTRACTION.ZIP mobile.yara
 
 Alternatively you can install opt to not use a virtual environment but that is generally not recommended. 
 
-In addition, you can install pyinstaller ans create an executable.
+In addition, you can install pyinstaller and create an executable.
 
 ```
 pip insall pyinstaller
