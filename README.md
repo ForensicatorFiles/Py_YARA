@@ -1,4 +1,4 @@
-<img width="30px" src="file_0000000075e471f588b93fbfc7078a6f.png" />
+<img width="300px" src="file_0000000075e471f588b93fbfc7078a6f.png" />
 
 # R.I.F.T.
 ## Rules Initiated Forensic Triage
