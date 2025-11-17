@@ -1,4 +1,4 @@
-# RIFT
+# R.I.F.T.
 ## Rules Initiated Forensic Triage
 
 R.I.F.T. is a lightweight, fast, and extensible YARA-powered forensic analyzer - built for rapid triage in high pressure situations.
